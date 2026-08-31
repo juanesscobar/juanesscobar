@@ -1,17 +1,17 @@
 <!--
   Juan Escobar · GitHub Profile
-  Software Engineering · Applied AI · Automation
+  Software Developer · Applied AI · Automation
 -->
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="Juan Escobar — Software Engineer & Applied AI Developer. Terminal: planificar, construir, automatizar, escalar, impacto_real = True, conciencia = plataforma." width="100%" />
+<img src="assets/banner.svg" alt="Juan Escobar — Software Developer & Applied AI Developer. Terminal: planificar, construir, automatizar, escalar, impacto_real = True, conciencia = plataforma." width="100%" />
 
 </div>
 
 ## Sobre mí
 
-Hola, soy **Juan Escobar**, software engineer enfocado en IA aplicada.
+Hola, soy **Juan Escobar**, software developer enfocado en IA aplicada.
 
 > Construyo software, automatización y sistemas inteligentes que conectan personas, procesos e información para generar impacto real.
 
